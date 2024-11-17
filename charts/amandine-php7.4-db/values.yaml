@@ -1,10 +1,10 @@
-NameSpace: mycloud
-AppName: amandine-php74-db
+NameSpace: koden-clients
+AppName: sbea-db
 
 MariadbReplicas: 1
 MariadbImageTag: latest
 MariadbDiskSize: 5Gi
 MariadbServerId: 2
-MariadbDbName: mydatabase
-MariadbDbUser: username
+MariadbDbName: sbea
+MariadbDbUser: sbea
 MariadbDbPort: 3306
